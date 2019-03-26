@@ -1,4 +1,4 @@
-# Absa.Assessment.Task1TestNG
+# Absa.Assessment.Task1
 I have used SoapUI 5.4.0 for task1.
 Here i have created three REST requests and a Test case.
 Please find the references below:
